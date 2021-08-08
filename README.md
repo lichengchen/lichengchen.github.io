@@ -1,5 +1,6 @@
 ## 琛的主页
 这里集合了大学时代写的一些小程序
+![img](https://i0.hdslb.com/bfs/article/c46ee624d73f8fdd036a9d0b671c4eb352392f94.jpg@1320w_742h.webp)
 
 ***
 
