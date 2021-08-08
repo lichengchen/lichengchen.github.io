@@ -27,4 +27,4 @@ cocos写的山寨版KingdomRush[查看详情](https://lichengchen.github.io/coco
 
 ![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-5.png?raw=true)
 
-![img](https://github.com/lichengchen/cocos_demo/blob/main/pics/p4.png?raw=true)
+![img](https://github.com/lichengchen/calculator/blob/main/pics/p5-3.png?raw=true)
