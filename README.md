@@ -57,4 +57,6 @@ cocos写的山寨版KingdomRush
 
 ### 谢谢你长得这么好看还看到了这里
 
+![img](http://r.photo.store.qq.com/psc?/V53Gw3Z23Lsxju1phNtw3RGZAi4YQ3dp/45NBuzDIW489QBoVep5mcT4PPLcVYP9OJ9BNUE3RGjWePSmqeThwnwQ81oZaXoTcp2Rl458R11pNO20JcZgNzGUTYOfURXQfj04gxtR85f0!/r)
+
 ***
